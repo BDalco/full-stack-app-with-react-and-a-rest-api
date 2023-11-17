@@ -10,7 +10,7 @@ After using the Create React App tool to set up your initial project, I:
 - Used the Fetch API or a tool like Axios to fetch data from your REST API.
 - Allowed users to sign up and use basic authentication to support users signing in.
 
-## To run the project
+### To run the project
 First, install the respective dependencies of the project in two different terminals
 - one for api: <b>npm install</b>
 - one for client: <b>npm install</b>
