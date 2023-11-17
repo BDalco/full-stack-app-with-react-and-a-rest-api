@@ -6,7 +6,7 @@ In addition, this project will require users to create an account and sign in to
 
 After using the Create React App tool to set up your initial project, I:
 
-* Used JavaScript and JSX to build out the components for your application in a modular fashion.
-* Used React Router to set up your routes.
-* Used the Fetch API or a tool like Axios to fetch data from your REST API.
-* Allowed users to sign up and use basic authentication to support users signing in.
+- Used JavaScript and JSX to build out the components for your application in a modular fashion.
+- Used React Router to set up your routes.
+- Used the Fetch API or a tool like Axios to fetch data from your REST API.
+- Allowed users to sign up and use basic authentication to support users signing in.
