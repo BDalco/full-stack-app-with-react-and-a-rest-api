@@ -17,7 +17,9 @@ First, install the respective dependencies of the project in two different termi
 
 Second, create the database and seed it with initial data in the api terminal: <b>npm run seed</b>
 
-Finally, launch the application in both terminals: <b>npm start</b>
+Finally, launch the application in both terminals: 
+- api terminal first: <b>npm start</b>
+- client terminal second: <b>npm start</b>
 
 Verify the deployment by navigating to your server address in your preferred browser:
 - http://localhost:3000 (client)
